@@ -64,12 +64,12 @@
 
     // 木材星球（原生星系）
     "$MISFIREDJUMP_CURIOSITY_NEW_WARP_DRIVE": "新型跃迁引擎",
-    "$MISFIREDJUMP_LOG_TIMBERHEARTH_POSTDIALOGUE": "斯雷特给我的飞船装了一台新型跃迁引擎，还让我赶紧试试。",
+    "$MISFIREDJUMP_LOG_TIMBERHEARTH_POSTDIALOGUE": "斯莱特给我的飞船装了一台新型跃迁引擎，还让我赶紧试试。",
 
     // [紫色]
     // 恒星 - 初始条目
     "$MISFIREDJUMP_ENTRY_BROKENWARP": "故障跃迁",
-    "$MISFIREDJUMP_LOG_BROKENWARP_INTRO": "斯雷特的实验性跃迁引擎在第一次试跳后就报废了。我停稳时好像看到有个零件飞了出去。",
+    "$MISFIREDJUMP_LOG_BROKENWARP_INTRO": "斯莱特的实验性跃迁引擎在第一次试跳后就报废了。我停稳时好像看到有个零件飞了出去。",
     "$MISFIREDJUMP_LOG_BROKENWARP_INTRO_2": "要是能找到替换零件，说不定还能修好。",
 
     // 探测仪 - 解开谜题后
