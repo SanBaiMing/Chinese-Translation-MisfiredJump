@@ -1,0 +1,170 @@
+{
+//该翻译补丁经检查没有任何问题。
+  "$schema": "https://raw.githubusercontent.com/outer-wilds-new-horizons/new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+  "UIDictionary": {
+    "Scalding Abyss": "灼焰熔渊",
+    "Tranquil Husk": "静谧残垣",
+    "Outward Gazer": "外域凝望者",
+    "Faceless Drifter": "无面漂泊者",
+    "Cannon": "大炮",
+    "Bukradite Lens": "布克拉德质镜片",
+    "Egg of Igneous Bukrad": "火成岩布克拉德的蛋",
+    "After one more puzzle, you manage to repair your ship and escape back to home.": "解开最后一道谜题后，你成功修好飞船，逃回了家园。",
+
+    "LeftRightTelescopeConsolePrompt": "左/右",
+    "UpDownTelescopeConsolePrompt": "上/下",
+    "ChangeZoomTelescopeConsolePrompt": "调整缩放",
+    "DropDownPodConsolePrompt": "下降",
+    "LeftRightPodConsolePrompt": "左/右",
+    "ForwardPodConsolePrompt": "前进",
+    "UseArmPodConsolePrompt": "使用机械臂"
+  },
+  "DialogueDictionary": {
+    "4th wall break: If you're reading this it's because I haven't managed to fix the socket on the arm before the end of the jam.": "打破第四面墙：如果你看到这段文字，说明我没能在限时创作赛结束前修好机械臂的接口。",
+    "Still, it's only a visual bug. So go ahead and interact with the grabber.": "不过，这只是个视觉上的bug而已。所以上前去和抓取器互动吧。",
+
+    "Hey there!": "嘿，你好！",
+    "MisfiredJump is a mod made for the 4th OW modding jam under the themes 'Escape'/'Isolation' with the restriction of 'Minimal text'.": "《MisfiredJump》是为第四届《星际拓荒》模组创作赛制作的模组，主题为“逃脱/孤立”，并遵循“极简文本”的限制要求。",
+    "So.. as it often goes, overscoping was a real issue during this jam.": "唉……老样子，在这次创作赛里，目标定得太大成了真正的难题。",
+    "I cut out a lot of what I wanted to do, but even then I still didn't have time to finish this last puzzle.": "我砍掉了很多原本想做的内容，可即便如此，还是没时间把这最后一道谜题做完。",
+    "Not too big a deal, since the telescope was already a big one, but an ending like this is a bit abrupt (I do intend on finishing the mod post-jam mind you)": "倒也不算太糟，毕竟望远镜这个部分已经做得很复杂了，只是这样的结局确实有点仓促（跟你说，我打算在创作赛结束后把这个模组做完）。",
+    "Regardless, I hope you had fun with my mod as it stands right now.": "不管怎样，希望你能喜欢我目前做出的这个模组。",
+    "One last challenge I have for you if you haven't found him already, is to find our usual anglerfish Easter egg. Otherwise, just get closer to the probe to earn your gameover screen. Cheers!": "如果你还没找到的话，我给你留了最后一个挑战：找到我们经典的安康鱼彩蛋。要是不想找，只要靠近探测器就能看到游戏结束画面啦。干杯！",
+
+    // TODO: Add Slate's intro dialogue
+    "$MISFIREDJUMP_DIALOGUE_SLATE": "嘿，小家伙，临走前跟你说个事——",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_REPLY": "行行行，发射密码我早就弄到手了。",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_2": "不是说这个。我就是想告诉你，我给你的飞船捣鼓出了个新引擎。用闪亮的挪麦跃迁技术造的，原理和你的小侦察兵一样，就是劲儿大多了。",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_2_REPLY": "真的？厉害啊。",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_3": "那可不，我已经给你装船上了。不用谢。",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_3_REPLY": "哦。那你还在我船屁股后面偷偷粘了多少能要我命的破烂，是不是也该让我知道一下？",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_4": "跟你说，这玩意儿之前的测试每次都顺顺利利的。而且我用的胶带质量超棒，那些松动零件的数量从来都在可接受范围内。",
+    "$MISFIREDJUMP_DIALOGUE_SLATE_4_REPLY": "我得先试试你这鬼东西，再去研究你到底用了什么黑魔法才让你的破烂发明没散架。",
+
+    // TODO: Add Ernesto's dialogue
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_NAME": "厄内斯托",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO": "嘿，是我呀，会说话的魔法安康鱼厄内斯托。",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_REPLY": "你怎么在这儿？",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_2": "唉，你也看到了，我本来正和老公开开心心度假呢，我俩一路星际自驾游，多惬意。结果不知道从哪儿飞出来个玩意儿，哐当一下撞在我们侧边。真搞不懂有些人怎么什么破烂都往太空里扔。",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_2_REPLY": "这也太倒霉了吧！",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_3": "可不是嘛。不过还好我俩都没受伤，这才是最重要的。格斯瓦尔多还是吓得够呛，你可得离他远点。话说回来，我们的代步工具撞坏了，能不能搭你的船到下一个空间站呀？",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_3_REPLY": "呃……我倒是想帮你们，可你们俩这体型，我飞船的舱门怕是塞不进去啊。而且我自己的引擎也废了，就这状态，估计连这个星系都飞不出去。",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_4": "啊，那没事啦。我们就在这儿搭个便车，等下一艘飞船路过就好。你多保重！",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_4_REPLY": "祝你们俩好运，后会有期。",
+    "$MISFIREDJUMP_DIALOGUE_ERNESTO_JAM": "哦对了，要是你在这场创作赛刚结束没多久就找到我，记得给模组作者捎个信。说不定他会把你加到制作人员名单里，标成“核心玩家”呢。"
+  },
+  "ShipLogDictionary": {
+    // 行星名称
+    "$MISFIREDJUMP_PLANET_SUN_NAME": "JAM4恒星",
+    "$MISFIREDJUMP_PLANET_LAVA_NAME": "灼焰熔渊",
+    "$MISFIREDJUMP_PLANET_RESEARCH_NAME": "静谧残垣",
+    "$MISFIREDJUMP_PLANET_ASTEROID_NAME": "无面漂泊者",
+    "$MISFIREDJUMP_PLANET_TELESCOPE_NAME": "外域凝望者",
+    "$MISFIREDJUMP_PLANET_PROBES_NAME": "深空天体",
+
+    // 木材星球（原生星系）
+    "$MISFIREDJUMP_CURIOSITY_NEW_WARP_DRIVE": "新型跃迁引擎",
+    "$MISFIREDJUMP_LOG_TIMBERHEARTH_POSTDIALOGUE": "斯雷特给我的飞船装了一台新型跃迁引擎，还让我赶紧试试。",
+
+    // [紫色]
+    // 恒星 - 初始条目
+    "$MISFIREDJUMP_ENTRY_BROKENWARP": "故障跃迁",
+    "$MISFIREDJUMP_LOG_BROKENWARP_INTRO": "斯雷特的实验性跃迁引擎在第一次试跳后就报废了。我停稳时好像看到有个零件飞了出去。",
+    "$MISFIREDJUMP_LOG_BROKENWARP_INTRO_2": "要是能找到替换零件，说不定还能修好。",
+
+    // 探测仪 - 解开谜题后
+    "$MISFIREDJUMP_CURIOSITY_DEEPSPACE_PROBES": "深空探测仪",
+    "$MISFIREDJUMP_CURIOSITY_DEEPSPACE_PROBES_RUMOR": "深空天体",
+    "$MISFIREDJUMP_LOG_PROBE_RUMOR": "望远镜在深空里发现了某个东西。",
+    "$MISFIREDJUMP_LOG_PROBE_SIGNAL": "深空中有一台探测仪在发射微弱信号。",
+    "$MISFIREDJUMP_LOG_PROBE_SIGNAL_2": "信号镜在这个频段上捕捉到了其他探测仪的信号。",
+
+    // 探测仪 - 解开谜题后（厄内斯托线）
+    "$MISFIREDJUMP_ENTRY_ERNESTO": "厄内斯托",
+    "$MISFIREDJUMP_ENTRY_ERNESTO_RUMOR": "深空天体",
+    "$MISFIREDJUMP_LOG_ERNESTO_RUMOR": "望远镜在深空里发现了某个东西。",
+    "$MISFIREDJUMP_LOG_ERNESTO_POSTDIALOGUE": "厄内斯托原本正和丈夫享受星际自驾游，结果被一台探测仪撞上了。所幸两人都没受伤，但这对夫妻现在只能靠搭便车赶路了。",
+
+    // 探测仪 - 找到丢失的核心后
+    "$MISFIREDJUMP_ENTRY_LOST_CORE": "遗失的核心",
+    "$MISFIREDJUMP_LOG_LOST_CORE": "我通过多台探测仪的信号进行三角定位，找到了那枚遗失的核心。",
+
+    // [蓝色]
+    // 望远镜行星 - 初始条目
+    "$MISFIREDJUMP_ENTRY_OUTWARD_GAZER": "外域凝望者",
+    "$MISFIREDJUMP_LOG_OUTWARD_GAZER": "这颗行星位于小行星带外侧，表面有一座巨大的建筑，朝向深空方向。",
+
+    // 望远镜行星 - 进入建筑后
+    "$MISFIREDJUMP_CURIOSITY_TELESCOPE": "巨型望远镜",
+    "$MISFIREDJUMP_LOG_TELESCOPE_GROUND": "这座建筑里安放着一台巨型望远镜。",
+    "$MISFIREDJUMP_LOG_TELESCOPE_LENS": "这台巨型望远镜的镜片不见了。",
+
+    "$MISFIREDJUMP_LOG_TELESCOPE_SYMBOL_RUMOR": "这些符号标记着大炮最后发射探测仪的坐标。",
+    "$MISFIREDJUMP_LOG_TELESCOPE_ORIENTATION_RUMOR": "控制台可以调节望远镜的朝向。",
+
+    // 望远镜行星 - 交互控制台后
+    "$MISFIREDJUMP_ENTRY_TELESCOPE_CONSOLE": "望远镜控制台",
+    "$MISFIREDJUMP_LOG_TELESCOPE_CONSOLE": "地下室里有一个控制台，旁边还摆着一台迷你望远镜。",
+    "$MISFIREDJUMP_LOG_TELESCOPE_CONSOLE_2": "控制台一开始似乎没有通电。",
+    "$MISFIREDJUMP_LOG_TELESCOPE_CONSOLE_NOLENS": "通电后，控制台可以操控望远镜的朝向，但缩放功能依然无法响应。",
+    "$MISFIREDJUMP_LOG_TELESCOPE_CONSOLE_LENS": "装上镜片后，望远镜的所有功能都可以正常调节了。",
+
+    "$MISFIREDJUMP_LOG_TELESCOPE_CONSOLE_POWERON_RUMOR": "下层地下室里有控制台的主发电机。",
+
+    // 望远镜行星 - 能源区域（门/探测仪旁）
+    "$MISFIREDJUMP_ENTRY_LOWER_BASEMENT": "下层地下室",
+    "$MISFIREDJUMP_LOG_LOWER_BASEMENT_DOOR": "地下室的一部分被坍塌的门堵住了。",
+    "$MISFIREDJUMP_LOG_LOWER_BASEMENT_BATTERIES": "我能看到几排疑似电池的装置。",
+    "$MISFIREDJUMP_LOG_LOWER_BASEMENT_FLOODING": "没过多久，地下室的下层区域就被淹了。",
+    "$MISFIREDJUMP_LOG_LOWER_BASEMENT_POWERON": "地下室下层有一个总开关，这里蕴藏着巨大的能量。",
+
+    // [灰色]
+    // 望远镜行星 - 拾取彩蛋石块后
+    "$MISFIREDJUMP_ENTRY_HIDDEN_STONE": "隐藏石块",
+    "$MISFIREDJUMP_LOG_HIDDEN_STONE": "我在一处壁龛里发现了一块隐藏的投影石。",
+
+    // 研究行星/小行星行星 - 插入大炮石块，或未插石块抵达后
+    "$MISFIREDJUMP_ENTRY_ASTEROID_RUMOR": "大炮平台",
+    "$MISFIREDJUMP_LOG_ASTEROID_RUMOR": "我通过挪麦投影池看到，某颗小行星上有一座巨型大炮。",
+    "$MISFIREDJUMP_ENTRY_ASTEROID": "探测仪发射器",
+    "$MISFIREDJUMP_LOG_ASTEROID_CANNON": "这颗小行星上安装着一台小型大炮。",
+    "$MISFIREDJUMP_LOG_ASTEROID_COMMAND": "大炮平台旁有一座指挥建筑，墙上刻着奇特的符号。",
+
+    // 恒星（混合条目）- 看到符号时
+    "$MISFIREDJUMP_CURIOSITY_SYMBOLS": "神秘符号",
+    "$MISFIREDJUMP_LOG_SYMBOLS_TELESCOPE": "我在外域凝望者的一面墙上看到了一组符号。",
+    "$MISFIREDJUMP_LOG_SYMBOLS_CANNON": "我在无面漂泊者的一面墙上看到了一组符号。",
+    "$MISFIREDJUMP_LOG_SYMBOLS_ERNESTO": "通过投影池，我看到了一面墙上刻着的一组符号。",
+
+    // [绿色]
+    // 研究行星 - 探索后
+    "$MISFIREDJUMP_ENTRY_TRANQUIL_HUSK": "静谧残垣",
+    "$MISFIREDJUMP_LOG_TRANQUIL_HUSK": "一颗有着废弃定居点的行星。",
+    "$MISFIREDJUMP_LOG_TRANQUIL_HUSK_PROBES": "这里的原住民离开前似乎并未关停所有设备。机械和闪烁的屏幕至今仍在运转。",
+    "$MISFIREDJUMP_LOG_TRANQUIL_HUSK_STONE": "其中一栋建筑里有一块投影石，不远处还有一个投影池。",
+    "$MISFIREDJUMP_LOG_TRANQUIL_HUSK_EVACUATED": "定居点里毫无生命迹象，但看起来并非突发灾难所致——所有建筑都被清理得干干净净，像是有计划撤离。",
+
+    // 研究行星 - 进入建筑后
+    "$MISFIREDJUMP_CURIOSITY_WORKSHOP": "工坊",
+    "$MISFIREDJUMP_LOG_WORKSHOP": "建筑群里有一间工坊。",
+    "$MISFIREDJUMP_LOG_WORKSHOP_2": "工坊似乎已经被基本清空了。架子上没有卷轴，容器也空空如也。",
+    "$MISFIREDJUMP_LOG_WORKSHOP_PRESS": "工坊角落摆着一台压制机和几个圆形框架。",
+    "$MISFIREDJUMP_LOG_WORKSHOP_EGG_RUMOR": "压制机旁的金属板上画着火成岩布克拉德巢穴的地图。",
+    "$MISFIREDJUMP_LOG_WORKSHOP_LENS": "这间工坊是用来为望远镜制作新镜片的。",
+
+    // [红色]
+    // 熔岩行星 - 探索后
+    "$MISFIREDJUMP_ENTRY_SCALDING_ABYSS": "灼焰熔渊",
+    "$MISFIREDJUMP_LOG_SCALDING_ABYSS": "这颗熊熊燃烧的巨型星球上，只露出一栋建筑的一角。",
+    "$MISFIREDJUMP_LOG_SCALDING_ABYSS_BEAM": "疼死我了。这些光束的校准出了问题，我得离它们远点。",
+
+    // 熔岩行星 - 探测舱
+    "$MISFIREDJUMP_CURIOSITY_LAVA_POD": "熔岩探测舱",
+    "$MISFIREDJUMP_LOG_LAVA_POD": "建筑有一层开放式地板，下方悬着一艘探测舱，正对着熔岩。",
+    "$MISFIREDJUMP_LOG_LAVA_POD_2": "探测舱外部装有四条可活动的机械腿，还有一个钳形机械臂。",
+    "$MISFIREDJUMP_LOG_LAVA_POD_INSIDE": "探测舱内部有控制台、显示屏、氧气瓶，还有一枚跃迁核心。",
+    "$MISFIREDJUMP_LOG_LAVA_POD_ABORT": "探测舱可以利用这枚核心跃迁回初始位置。",
+    "$MISFIREDJUMP_LOG_LAVA_POD_DIVE": "探测舱可以被投放到下方的熔岩中，并且能在极端高温下停留一小段时间。",
+    "$MISFIREDJUMP_LOG_LAVA_POD_NEST": "熔岩深处有个……不知道是什么的巢穴。这台探测舱应该就是用来收集巢穴里的蛋的。"
+  }
+}
